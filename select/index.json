@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Rarri",
+  "base_artist": "Kohjiya",
+  "createdAt": "2026-03-22T08:27:26.088615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Young Thug feat. Yung Ralph",
+      "has_synced": true,
+      "path": "select/01_Rarri_Young_Thug_feat._Yung_Ralph.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/02_Rarri_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crying in the Rarri",
+      "artist": "6 Dogs",
+      "has_synced": true,
+      "path": "select/03_Crying_in_the_Rarri_6_Dogs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "A-Reece",
+      "has_synced": false,
+      "path": "select/04_Rarri_A-Reece.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Kidd Keo",
+      "has_synced": false,
+      "path": "select/05_Rarri_Kidd_Keo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Lil Mosey",
+      "has_synced": false,
+      "path": "select/06_Rarri_Lil_Mosey.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Astronaut (feat. Rarri Tru)",
+      "artist": "Asian Doll",
+      "has_synced": false,
+      "path": "select/07_Astronaut_(feat._Rarri_Tru)_Asian_Doll.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rarri (feat. Young Ralph)",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/08_Rarri_(feat._Young_Ralph)_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rarri (feat. Yung Ralph)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/09_Rarri_(feat._Yung_Ralph)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Young Thug & Yung Ralph",
+      "has_synced": true,
+      "path": "select/10_Rarri_Young_Thug_&_Yung_Ralph.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/11_Rarri_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blast Off (feat. Justin Rarri)",
+      "artist": "YSN Flow",
+      "has_synced": true,
+      "path": "select/12_Blast_Off_(feat._Justin_Rarri)_YSN_Flow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DIAMOND BARY RARRI",
+      "artist": "WEN",
+      "has_synced": true,
+      "path": "select/13_DIAMOND_BARY_RARRI_WEN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Bvcovia",
+      "has_synced": true,
+      "path": "select/14_Rarri_Bvcovia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Young Thug - Rarri Feat. Young Ralph",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/15_Young_Thug_-_Rarri_Feat._Young_Ralph_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pretty Fly 4 (feat. Rarri Jackson)",
+      "artist": "Joost",
+      "has_synced": true,
+      "path": "select/16_Pretty_Fly_4_(feat._Rarri_Jackson)_Joost.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "RARRI",
+      "artist": "JMK$",
+      "has_synced": true,
+      "path": "select/17_RARRI_JMK$.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rarri",
+      "artist": "Marko Glass",
+      "has_synced": true,
+      "path": "select/18_Rarri_Marko_Glass.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "RARRI (feat. Afro S & BU$HI)",
+      "artist": "JMK$",
+      "has_synced": true,
+      "path": "select/19_RARRI_(feat._Afro_S_&_BU$HI)_JMK$.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Rarri Dreamin",
+      "artist": "Tm",
+      "has_synced": true,
+      "path": "select/20_Rarri_Dreamin_Tm.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rarri (featuring lj and Only U)",
+      "artist": "Kohjiya",
+      "has_synced": false,
+      "path": "select/pl_01_Rarri_(featuring_lj_and_Only_U)_Kohjiya.txt"
+    }
+  ]
+}
