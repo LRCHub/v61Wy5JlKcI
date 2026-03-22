@@ -1,0 +1,66 @@
+# Kohjiya – Rarri
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Look at me yah 乗り込む街 (飛ばすCar)
+床が抜けるこのParty ダチの家で夜通し (M.A.D.
+Boy)
+バカな話ばっかTalkin' (You stupid boy)
+Look at me yah 乗り込む街 (飛ばすCar)
+床が抜けるこのParty ダチの家で夜通し (M.A.D.
+Boy)
+バカな話ばっかTalkin' (You stupid boy)
+遊びきな俺の街 今日も誰かの誕生日
+I got a lot 欲しいもん 買いに行くあちこち
+ダチは電話一つで すぐに遊べる距離
+45 回ってるタイヤのよう
+We going on
+地元に帰るところ
+おもちゃで遊んでる子供のように
+Driving yeah 隣にFlexin boi
+毎日バカみたいに笑ってる
+迷子の犬を保護した地元で
+帰ったら何かが起こる気がしてる
+街中ドヤ顔歩けるまでPlay
+Go buddy yo
+Look at me yah 乗り込む街 (飛ばすCar)
+床が抜けるこのParty ダチの家で夜通し (M.A.D.
+Boy)
+バカな話ばっかTalkin' (You stupid boy)
+Look at me yah 乗り込む街 (飛ばすCar)
+床が抜けるこのParty ダチの家で夜通し (M.A.D.
+Boy)
+バカな話ばっかTalkin' (You stupid boy)
+今日は派手にパーリ 呼んでるダチのダチのダチ
+背伸びしてはballin 値段は気にしない
+大切にしたい今は時間 めんどいの時短
+忙しいミリ単位のスケジュール
+あの子も来るから火がつく
+だろ今すぐ
+ライブかまし平日は籠るブース
+とまれないもう二度と 俺は22
+俺街出りゃすぐ顔バレ
+So poker faceでもドヤ顔でバレバレ
+ニートみたいに篭るMa studio
+なのに何故か金が増える一方
+Like a John Wick, Sigma face
+キメて好きな事をやりまくるだけ
+だって横浜生まれ!
+仲間達よ集まれ!
+地元で今夜は宴!
+マジ身内ノリですいません
+だけどコレが俺らのSense!
+遊びが天職この通り(バラ撒くCash!)
+マジ朝飯前正味(笑)
+誰にも負けないって気持ち(No Cap!)
+夢を見たあの夜1人
+Look at me yah 乗り込む街 (飛ばすCar)
+床が抜けるこのParty ダチの家で夜通し (M.A.D.
+Boy)
+バカな話ばっかTalkin' (You stupid boy)
+Look at me yah 乗り込む街 (飛ばすCar)
+床が抜けるこのParty ダチの家で夜通し (M.A.D.
+Boy)
+バカな話ばっかTalkin' (You stupid boy)
+```
